@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @to0ony
-- 👀 I’m interested in photography.
-- 🌱 I’m currently learning HTML - CSS
+- 👀 I’m interested in photography and UI/Web design
+- 🌱 I’m currently learning HTML - CSS - C++
 - 📫 How to reach me antonijomaric1@gmail.com
 
 <!---
